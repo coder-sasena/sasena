@@ -254,7 +254,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: zivara,
+    image: ziva,
     source_code_link: "https://alternative-coding.github.io/ziva-store-Demo",
   },
   {
