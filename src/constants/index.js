@@ -19,9 +19,7 @@ import {
   sunutrans,
   triples,
   star17,
-  rogstore,
   // carrent,
-  ziva,
   kalkulator,
   threejs,
 } from "../assets";
@@ -117,59 +115,87 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Operational Staff",
+    title: "Staff Operasional",
     company_name: "PT. Sukma Nusantara Transport",
     icon: sunutrans,
     iconBg: "#383E56",
     date: "2016 - 2018",
     points: [
-      "Performing daily operational tasks in accordance with company procedures and standards.",
-      "Ensuring that all operational activities are carried out safely, efficiently, and in compliance with applicable regulations.",
-      "Generating regular operational reports (daily, weekly, monthly).",
-      "Managing operational documents and data, including inventory.",
-      "Ensuring that operational equipment, machinery, or work devices function properly and are in a safe condition.",
+      "Melaksanakan tugas operasional sehari-hari sesuai dengan prosedur dan standar perusahaan.",
+      "Memastikan seluruh kegiatan operasional dilaksanakan secara aman, efisien, dan sesuai dengan ketentuan yang berlaku.",
+      "Menghasilkan laporan operasional secara berkala (harian, mingguan, bulanan).",
+      "Mengelola dokumen dan data operasional, termasuk inventaris.",
+      "Memastikan peralatan operasional, mesin, atau perangkat kerja berfungsi dengan baik dan dalam kondisi aman.",
     ],
+    // points: [
+    //   "Performing daily operational tasks in accordance with company procedures and standards.",
+    //   "Ensuring that all operational activities are carried out safely, efficiently, and in compliance with applicable regulations.",
+    //   "Generating regular operational reports (daily, weekly, monthly).",
+    //   "Managing operational documents and data, including inventory.",
+    //   "Ensuring that operational equipment, machinery, or work devices function properly and are in a safe condition.",
+    // ],
   },
   {
-    title: "Administrative Internship",
+    title: "Magang Administrasi",
     company_name: "PT. Sentra Support Service",
     icon: triples,
     iconBg: "#E6DEDD",
     date: "2019 - 2019",
     points: [
-      "Performs office clerical duties in support of an assigned department or division; receives and directs telephone calls and visitors; provides information on department or division services and operations.",
-      "Maintains a variety of files and records in assigned department; files in accordance with established filing system.",
-      "Operates a variety of office equipment including copiers, postage meters, facsimile machines, and computers; input and retrieve data and text; organizes and maintains disk storage and filing.",
-      "Performs related duties and responsibilities as required.",
+      "Melaksanakan tugas administrasi kantor untuk mendukung departemen atau divisi yang ditugaskan; menerima dan mengarahkan panggilan telepon dan pengunjung; memberikan informasi tentang layanan dan operasi departemen atau divisi.",
+      "Memelihara berbagai file dan catatan di departemen yang ditugaskan; berkas sesuai dengan sistem pengarsipan yang telah ditetapkan.",
+      "Mengoperasikan berbagai peralatan kantor termasuk mesin fotokopi, meteran perangko, mesin faksimili, dan komputer; memasukkan dan mengambil data dan teks; mengatur dan memelihara penyimpanan dan pengarsipan disk.",
+      "Melakukan tugas dan tanggung jawab terkait sesuai kebutuhan.",
     ],
+    // points: [
+    //   "Performs office clerical duties in support of an assigned department or division; receives and directs telephone calls and visitors; provides information on department or division services and operations.",
+    //   "Maintains a variety of files and records in assigned department; files in accordance with established filing system.",
+    //   "Operates a variety of office equipment including copiers, postage meters, facsimile machines, and computers; input and retrieve data and text; organizes and maintains disk storage and filing.",
+    //   "Performs related duties and responsibilities as required.",
+    // ],
   },
   {
     title: "Admin Sales Onlineshop",
     company_name: "STAR17 Computer",
     icon: star17,
     iconBg: "#383E56",
-    date: "2019 - 2023",
+    date: "2019 - 2021",
     points: [
-      "Managing and overseeing sales on marketplaces and social media platforms (Shopee, Tokopedia).",
-      "Achieving sales targets as set.",
-      "Updating stock, prices, product information, promotional events, sales summaries, and online sales administration.",
-      "Playing an active role in company improvement, such as contributing to content creation when needed and suggesting ideas.",
+      "Mengelola dan mengawasi penjualan di marketplace dan platform media sosial (Shopee, Tokopedia).",
+      "Mencapai target penjualan sesuai yang ditetapkan.",
+      "Update stok, harga, informasi produk, event promosi, ringkasan penjualan, dan administrasi penjualan online.",
+      "Berperan aktif dalam kemajuan perusahaan, seperti berkontribusi dalam pembuatan konten bila diperlukan dan memberikan saran ide.",
     ],
+    // points: [
+    //   "Managing and overseeing sales on marketplaces and social media platforms (Shopee, Tokopedia).",
+    //   "Achieving sales targets as set.",
+    //   "Updating stock, prices, product information, promotional events, sales summaries, and online sales administration.",
+    //   "Playing an active role in company improvement, such as contributing to content creation when needed and suggesting ideas.",
+    // ],
   },
   {
-    title: "Computer Assembly Technician",
+    title: "Teknisi Perakitan Komputer",
+    // title: "Computer Assembly Technician",
     company_name: "STAR17 Computer",
     icon: star17,
     iconBg: "#383E56",
-    date: "2023 - 2024",
+    date: "2021 - 2024",
     points: [
-      "Select and order computer components according to customer requirements and budget.",
-      "Receive and inspect ordered computer components.",
-      "Install and connect all computer components,including motherboards, CPUs, RAM, HDD / SSD, Power Supply, and other hardware correctly.",
-      "Install and configure the operating system and other software.",
-      "Perform testing and troubleshooting to ensure the computer is functioning properly.",
-      "Provide technical support to customers.",
+      "Memilih dan memesan komponen komputer sesuai dengan kebutuhan dan anggaran pelanggan.",
+      "Menerima dan memeriksa komponen komputer yang dipesan.",
+      "Pasang dan sambungkan semua komponen komputer, termasuk motherboard, CPU, RAM, HDD/SSD, Power Supply, dan perangkat keras lainnya dengan benar.",
+      "Instal dan konfigurasikan sistem operasi dan perangkat lunak lainnya.",
+      "Lakukan pengujian dan pemecahan masalah untuk memastikan komputer berfungsi dengan baik.",
+      "Memberikan dukungan teknis kepada pelanggan.",
     ],
+    // points: [
+    //   "Select and order computer components according to customer requirements and budget.",
+    //   "Receive and inspect ordered computer components.",
+    //   "Install and connect all computer components,including motherboards, CPUs, RAM, HDD / SSD, Power Supply, and other hardware correctly.",
+    //   "Install and configure the operating system and other software.",
+    //   "Perform testing and troubleshooting to ensure the computer is functioning properly.",
+    //   "Provide technical support to customers.",
+    // ],
   },
 ];
 
@@ -223,57 +249,7 @@ const projects = [
   //   source_code_link: "https://github.com/",
   // },
   {
-    name: "ROG Store",
-    description:
-      "Using MongoDB, Express.js, ReactJS, Node.js I finished to build an Online Shop Application - from start to finish.",
-    tags: [
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "expressjs",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "nodejs",
-        color: "green-text-gradient",
-      },
-    ],
-    image: rogstore,
-    source_code_link: "https://rog-shop.vercel.app/",
-  },
-  {
-    name: "Ziva Shop",
-    description:
-      "Using Bootstrap 4 I learn how to build a Design Online Store Application - from start to finish.",
-    tags: [
-      {
-        name: "html",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css",
-        color: "green-text-gradient",
-      },
-      {
-        name: "javascript",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "bootstrap",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: ziva,
-    source_code_link: "https://alternative-coding.github.io/ziva-store-Demo",
-  },
-  {
-    name: "Scientific Calculator",
+    name: "Kalkulator-Ilmiah Sederhana",
     description:
       "Using Html, CSS & JavaScript I learn how to build a Calculator Application - from start to finish.",
     tags: [
@@ -291,8 +267,7 @@ const projects = [
       },
     ],
     image: kalkulator,
-    source_code_link:
-      "https://alternative-coding.github.io/kalkulator-ilmiah-sederhana/",
+    source_code_link: "https://github.com/coder-sasena/kalkulator-ilmiah",
   },
 ];
 

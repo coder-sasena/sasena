@@ -72,10 +72,18 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
+          Tujuan pengembang perangkat lunak adalah membantu Perusahaan Start-Up dan mapan untuk membawa bisnis mereka ke tingkat berikutnya dan membangun aplikasi yang luar biasa.
+          <br /> <br />
+          Proyek berikut ini menunjukkan keahlian dan pengalaman saya melalui contoh pekerjaan saya di dunia nyata. Setiap proyek dijelaskan secara singkat dengan tautan ke repositori kode dan demo langsung di dalamnya. Ini mencerminkan kemampuan saya untuk memecahkan masalah yang kompleks, bekerja dengan berbagai teknologi, dan mengelola proyek secara efektif.
+        </motion.p>
+        {/* <motion.p 
+          variants={fadeIn("", "", 0.1, 1)}
+          className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
+        >
           The purpose of a software developer is to help Start-Up and established Companies to take their business to the next level and build awesome apps.
           <br /> <br />
           Following projects showcases my skills and experience through real-world examples of my work. Each project is briefly described with links to code repositories and live demos in it. It reflects my ability to solve complex problems, work with different technologies, and manage projects effectively.
-        </motion.p>
+        </motion.p> */}
       </div>
 
       <div className="mt-20 flex flex-wrap gap-7">

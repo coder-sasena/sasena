@@ -32,7 +32,7 @@ const Contact = () => {
         "template_p987pzp",
         {
           from_name: form.name,
-          to_name: "Asigit",
+          to_name: "Sasena",
           from_email: form.email,
           to_email: "jsigit111@gmail.com",
           message: form.message,
