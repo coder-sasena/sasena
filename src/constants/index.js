@@ -183,9 +183,9 @@ const experiences = [
     points: [
       "Memilih dan memesan komponen komputer sesuai dengan kebutuhan dan anggaran pelanggan.",
       "Menerima dan memeriksa komponen komputer yang dipesan.",
-      "Pasang dan sambungkan semua komponen komputer, termasuk motherboard, CPU, RAM, HDD/SSD, Power Supply, dan perangkat keras lainnya dengan benar.",
-      "Instal dan konfigurasikan sistem operasi dan perangkat lunak lainnya.",
-      "Lakukan pengujian dan pemecahan masalah untuk memastikan komputer berfungsi dengan baik.",
+      "Memasang dan Menyambungkan semua komponen komputer, termasuk motherboard, CPU, RAM, HDD/SSD, Power Supply, dan perangkat keras lainnya dengan benar.",
+      "Instal dan mengkonfigurasikan sistem operasi dan perangkat lunak lainnya.",
+      "Melakukan pengujian dan pemecahan masalah untuk memastikan komputer berfungsi dengan baik.",
       "Memberikan dukungan teknis kepada pelanggan.",
     ],
     // points: [
